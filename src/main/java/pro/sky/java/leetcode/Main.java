@@ -4,6 +4,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
         System.out.println("Выпоолнили новую задачу");
-        System.out.println("Еще задача от менеджера");
+        System.out.println("Своя задача");
     }
 }
